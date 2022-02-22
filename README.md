@@ -8,8 +8,8 @@ Make short link by using [URLSHORTX](https://bit.ly/3nOpqCl) API key. Made by @I
 
 ### Installation
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/Devansh20055/LINK-SHORTER"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a><br/>
-<a href="https://railway.app/new/template?template=https://github.com/Devansh20055/LINK-SHORTER&envs=API_KEY%2CAPI_HASH%2CAPI_ID%2CBOT_TOKEN"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-purple?style=for-the-badge&logo=railway" width="200"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Doctorstra/LINK-SHORTER"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a><br/>
+<a href="https://railway.app/new/template?template=https://github.com/Doctorstra/LINK-SHORTER&envs=API_KEY%2CAPI_HASH%2CAPI_ID%2CBOT_TOKEN"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-purple?style=for-the-badge&logo=railway" width="200"/></a></p>
 
 ##### Required Variables
 
@@ -26,7 +26,7 @@ Make short link by using [URLSHORTX](https://bit.ly/3nOpqCl) API key. Made by @I
 * Send any link to the bot.
 * Bot will autodetect and send you the shortened url.
 
-<a href="https://github.com/Devansh20055/LINK-SHORTER/screenshots/"><img src="https://img.shields.io/badge/See%20Screenshots-white?style=for-the-badge&logo=telegram" width="200"/></a>
+<a href="https://github.com/Doctorstra/LINK-SHORTER/"><img src="https://img.shields.io/badge/See%20Screenshots-white?style=for-the-badge&logo=telegram" width="200"/></a>
 
 ### Credits
 
